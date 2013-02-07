@@ -1,0 +1,4 @@
+quine-js
+========
+
+Javascript quines
