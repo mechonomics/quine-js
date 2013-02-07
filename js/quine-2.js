@@ -1,0 +1,1 @@
+z = 'document.writeln("z = " + String.fromCharCode(39) + z + String.fromCharCode(39) + ";eval(z);");';eval(z);
